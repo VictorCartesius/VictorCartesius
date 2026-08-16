@@ -11,7 +11,7 @@
 - **Hardware & Systems:** Board-level Design, STM32, TI DSPs (Rusty, but familiar).
 - **Firmware/Software:** Not my primary battlefield 🛠️ (My skill points are heavily allocated to hardware and systems, rather than pure software).
 
-📫 **Get in Touch**
+📫 **Contact**
 - **Blog:** [https://cartesius.site](https://cartesius.site) (*AMS Laboratorium Victoris Cartesii*)
 - **Email:** [vcartesius@126.com](mailto:vcartesius@126.com)
 - **Name & Alias:** Victor Cartesius / Victoria Cartesia (VC / Carte / Vic)
