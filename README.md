@@ -11,7 +11,7 @@
 - **Hardware & Systems:** Board-level AMS Design.
 
 📫 **Contact**
-- **Blog:** [https://cartesius.site](https://cartesius.site) (*AMS Laboratorium Victoris Cartesii*)
+- **Blog:** [https://cartesius.site](https://cartesius.site) (*Analogicorum Mixtorumque Signalium Laboratorium Victoris Cartesii*)
 - **Email:** [vcartesius@126.com](mailto:vcartesius@126.com)
 - **Name & Alias:** Victor Cartesius / Victoria Cartesia (VC / Carte / Vic)
 
